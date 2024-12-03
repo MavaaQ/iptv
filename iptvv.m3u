@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CSMystery.cz" tvg-logo="https://i.imgur.com/3cFbkUj.png" group-title="Entertainment",CS Mystery (720p)
-https://live.cdn.joj.sk/live/andromeda/cs_mystery-720.m3u8
-#EXTINF:-1 tvg-id="CSFilm.cz" tvg-logo="https://i.imgur.com/BAAuBB2.png" group-title="Movies",CS Film (720p)
-https://live.cdn.joj.sk/live/andromeda/cs_film-720.m3u8
-#EXTINF:-1 tvg-id="CSHistory.cz" tvg-logo="https://i.imgur.com/rtYj21D.png" group-title="Documentary",CS History (720p)
-https://live.cdn.joj.sk/live/andromeda/cs_history-720.m3u8
+http://192.168.0.128/iptv/cs_mystery-720.m3u8
